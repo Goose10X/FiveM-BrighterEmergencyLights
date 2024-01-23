@@ -17,3 +17,5 @@ This visualsetting.dat file was custom adjusted by Goose10X to enhance the emerg
 Discord: [Goose10X](https://discord.gg/VKamh4WUV5).
 
 <br>
+
+![unknown (2) (1)](https://github.com/Goose10X/FiveM-BrighterEmergencyLights/assets/116154238/e4c160b6-116d-46d5-b6fc-3be7721cdb87)

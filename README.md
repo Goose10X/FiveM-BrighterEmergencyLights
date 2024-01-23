@@ -1,9 +1,9 @@
 # FiveM-BrighterEmergencyLights
 Brighter Emergency Lights for FiveM
 
-This is NOT a graphics mod.
-This is a .dat text file that adjusts the GTA lighting settings.
-This visualsetting.dat file was custom adjusted by Goose10X to enhance the emergency lighting settings for day and night in FiveM.
+This is NOT a graphics mod. <br>
+This is a .dat text file that adjusts the GTA lighting settings. <br>
+This visualsetting.dat file was custom adjusted by Goose10X to enhance the emergency lighting settings for day and night in FiveM. <br>
 
 # How to install
 • Download the visualsetting.dat file

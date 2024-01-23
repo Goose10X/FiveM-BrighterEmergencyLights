@@ -14,4 +14,4 @@ This visualsetting.dat file was custom adjusted by Goose10X to enhance the emerg
 • Close the folder and you're all set. Restart FiveM and enjoy the new brighter and better emergency lights.
 
 # Contact Me
-Discord: goose10x
+Discord: [Goose10X](https://discord.gg/VKamh4WUV5).

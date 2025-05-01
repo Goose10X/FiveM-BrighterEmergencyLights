@@ -19,6 +19,7 @@ car.defaultlight.day.emissive.on <br>
 car.defaultlight.night.emissive.on <br>
 
 <br>
+![Image](https://github.com/user-attachments/assets/91089a91-a1f0-4f8f-9263-86414d5c6045)
 ![visualsettings-emissive](https://github.com/user-attachments/assets/d38f3d21-54b3-44cf-bba7-ce1d46d74f70)
 <br>
 

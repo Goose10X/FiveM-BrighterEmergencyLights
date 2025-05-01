@@ -19,7 +19,8 @@ car.defaultlight.day.emissive.on <br>
 car.defaultlight.night.emissive.on <br>
 
 <br>
-![visualsettings-emissive]([https://github.com/user-attachments/assets/d38f3d21-54b3-44cf-bba7-ce1d46d74f70](https://github-production-user-asset-6210df.s3.amazonaws.com/116154238/439636536-d38f3d21-54b3-44cf-bba7-ce1d46d74f70.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T152822Z&X-Amz-Expires=300&X-Amz-Signature=3ac4752a4c146f1afd9f85526b773bee67fe6716adf18ddad41ff2a7e9323952&X-Amz-SignedHeaders=host))
+
+![visualsettings-emissive](https://cdn.discordapp.com/attachments/1041693260206313512/1367523248694104177/visualsettings-emissive.png?ex=6814e4c5&is=68139345&hm=db947f91299b883464c3fa6718e1d6ab7c6816e972ae82879466ddba05317425&)
 <br>
 
 # Contact Me

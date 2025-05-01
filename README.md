@@ -18,6 +18,10 @@ You can adjust a bunch of visual/lighting settings within the .dat file. However
 car.defaultlight.day.emissive.on <br>
 car.defaultlight.night.emissive.on <br>
 
+<br>
+![visualsettings-emissive](https://github.com/user-attachments/assets/d38f3d21-54b3-44cf-bba7-ce1d46d74f70)
+<br>
+
 # Contact Me
 Discord: [Goose10X](https://discord.gg/VKamh4WUV5).
 

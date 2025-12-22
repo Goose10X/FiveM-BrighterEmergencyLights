@@ -6,7 +6,7 @@ This is a .dat text file that adjusts the GTA Rockstar day/night lighting settin
 This visualsetting.dat file was custom adjusted by Goose10X to enhance the emergency lighting settings for day and night in FiveM. <br>
 
 # How to install
-• Download the visualsetting.dat file <br>
+• Download the ZIP from the green drop down button above. It contains the visualsetting.dat file <br>
 • Right click your orange FiveM icon on your desktop and select open file location. <br>
 • Then click FiveM Application Data > Citizen > Common > Data  <br>
 • Copy and Paste (or drag and drop) the visualsettings.dat file into the Data folder. <br>
@@ -20,7 +20,7 @@ car.defaultlight.night.emissive.on <br>
 
 <br>
 
-![visualsettings-emissive](https://cdn.discordapp.com/attachments/1041693260206313512/1367523248694104177/visualsettings-emissive.png?ex=6814e4c5&is=68139345&hm=db947f91299b883464c3fa6718e1d6ab7c6816e972ae82879466ddba05317425&)
+![visualsettings-emissive](https://media.discordapp.net/attachments/1041693260206313512/1367523248694104177/visualsettings-emissive.png?ex=694963c5&is=69481245&hm=2ea14079dd5b35c121fc23bf8e15c64282a9b8d1333eb43f233784b7c679ff1a&=&format=webp&quality=lossless)
 <br>
 
 # Contact Me

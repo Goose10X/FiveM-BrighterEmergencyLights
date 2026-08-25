@@ -20,6 +20,17 @@ car.defaultlight.night.emissive.on <br>
 
 <br>
 
+These are the default GTA base game values: <br>
+car.defaultlight.day.emissive.on    15.00 <br>
+car.defaultlight.night.emissive.on  6.00 <br>
+
+<br>
+
+And these are the values I personally have set in the file: <br>
+car.defaultlight.day.emissive.on    3750.00 <br>
+car.defaultlight.night.emissive.on  650.00 <br>
+
+
 ![visualsettings-emissive](https://cdn.discordapp.com/attachments/1041693260206313512/1367523248694104177/visualsettings-emissive.png?ex=6a8f0645&is=6a8db4c5&hm=19b0c69831f874be1e15b86f4870c89b91629f46025b72c8ac1cda0bad6087b0)
 <br>
 

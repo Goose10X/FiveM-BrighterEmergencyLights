@@ -20,7 +20,7 @@ car.defaultlight.night.emissive.on <br>
 
 <br>
 
-![visualsettings-emissive](https://media.discordapp.net/attachments/1041693260206313512/1367523248694104177/visualsettings-emissive.png?ex=694963c5&is=69481245&hm=2ea14079dd5b35c121fc23bf8e15c64282a9b8d1333eb43f233784b7c679ff1a&=&format=webp&quality=lossless)
+![visualsettings-emissive](https://cdn.discordapp.com/attachments/1041693260206313512/1367523248694104177/visualsettings-emissive.png?ex=6a8f0645&is=6a8db4c5&hm=19b0c69831f874be1e15b86f4870c89b91629f46025b72c8ac1cda0bad6087b0)
 <br>
 
 # Contact Me
